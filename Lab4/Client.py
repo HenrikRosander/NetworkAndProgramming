@@ -2,7 +2,7 @@ import socket
 import os
 
 server = socket.socket()
-host = '192.168.1.192'
+host = '92.34.183.37'
 port = 1234
 
 run = True
