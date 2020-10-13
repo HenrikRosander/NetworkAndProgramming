@@ -5,7 +5,7 @@ import socket
 
 class Server:
     def __init__(self):
-        self.host = '192.168.10.233'
+        self.host = '192.168.1.192'
         self.port = 1234
         self.server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
